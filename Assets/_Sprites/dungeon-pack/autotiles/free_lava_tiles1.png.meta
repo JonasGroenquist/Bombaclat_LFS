@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      free_lava_tiles1_0: -7564048212660913539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

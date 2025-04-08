@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      free_wall_dungeon_autotile_8_0: -4207080917744286471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

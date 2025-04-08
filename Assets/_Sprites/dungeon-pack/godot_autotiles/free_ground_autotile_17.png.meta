@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      free_ground_autotile_17_0: 393779121929366064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

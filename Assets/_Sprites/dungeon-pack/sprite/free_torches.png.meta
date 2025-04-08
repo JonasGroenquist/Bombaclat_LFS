@@ -1997,7 +1997,82 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      free_torches_0: -1638284919242964062
+      free_torches_1: 124510092885658611
+      free_torches_10: -2239346856149249962
+      free_torches_11: 8565649119469051661
+      free_torches_12: 2798889179862086788
+      free_torches_13: 7633348735236328353
+      free_torches_14: 5584493097031339584
+      free_torches_15: -5715443606861956598
+      free_torches_16: 5124752743139643468
+      free_torches_17: 3025244406496470653
+      free_torches_18: -3750667930843065908
+      free_torches_19: 7971696630570799384
+      free_torches_2: -102865115080427491
+      free_torches_20: -5514716023366827028
+      free_torches_21: 490928058884027600
+      free_torches_22: -2021500562673626671
+      free_torches_23: -8386119278158671243
+      free_torches_24: 7690511390308958751
+      free_torches_25: -4267018474555755092
+      free_torches_26: 422250900254766701
+      free_torches_27: 2993345492199878322
+      free_torches_28: 263794596579972347
+      free_torches_29: 8986171428310637676
+      free_torches_3: 1927438616622883715
+      free_torches_30: 4166477874992329721
+      free_torches_31: -9115493255718744448
+      free_torches_32: 4095896594353128174
+      free_torches_33: -9057945715258375173
+      free_torches_34: 3694407506057129857
+      free_torches_35: 88496010445039961
+      free_torches_36: -1381509650098781534
+      free_torches_37: 6509641341127312131
+      free_torches_38: 6428786726234655367
+      free_torches_39: 9203904304431780259
+      free_torches_4: 595309413363389917
+      free_torches_40: -1690026769032319821
+      free_torches_41: -4661235820262944343
+      free_torches_42: 3051856793779092052
+      free_torches_43: -3240186196420512538
+      free_torches_44: 5002310904517300894
+      free_torches_45: 8725212393252206101
+      free_torches_46: 2188623867519209402
+      free_torches_47: 3433267504824109619
+      free_torches_48: -6582275098364263884
+      free_torches_49: 8909271655829990864
+      free_torches_5: 5832847797369202457
+      free_torches_50: -6190107247911603217
+      free_torches_51: 2733625215559433265
+      free_torches_52: 7685116920798654638
+      free_torches_53: -5691277733084576487
+      free_torches_54: -8007435111310593310
+      free_torches_55: 3414822463724025246
+      free_torches_56: 1668290455642009693
+      free_torches_57: 2648445188554324773
+      free_torches_58: 291229717371966260
+      free_torches_59: -2968054124605863671
+      free_torches_6: -2704961081352936967
+      free_torches_60: 2787903430097093035
+      free_torches_61: -3548245841562935475
+      free_torches_62: -5590597614899255014
+      free_torches_63: -6093317541042257980
+      free_torches_64: -5842653847105117407
+      free_torches_65: -7596867167667203323
+      free_torches_66: -8992043432786963280
+      free_torches_67: 204732329269170337
+      free_torches_68: -6589537213634200273
+      free_torches_69: 2090676744117371679
+      free_torches_7: -7061068223638082645
+      free_torches_70: -2275796384867787576
+      free_torches_71: -6954920828517847
+      free_torches_72: 1235430862834357198
+      free_torches_73: 9218969831822586404
+      free_torches_74: -2462449482360855492
+      free_torches_8: 1814284875959129094
+      free_torches_9: 7459721273485225183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

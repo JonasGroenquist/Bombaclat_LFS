@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_icons2_0: -6755037259875707164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

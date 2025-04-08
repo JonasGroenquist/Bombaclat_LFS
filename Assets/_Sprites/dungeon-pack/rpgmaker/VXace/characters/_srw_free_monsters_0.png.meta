@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _srw_free_monsters_0_0: -4483367993183549349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

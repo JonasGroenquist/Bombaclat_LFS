@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_fire_0: -6347228006332328161
+      $_srw_free_fire_1: 1497688004387334792
+      $_srw_free_fire_10: 1599890973169524802
+      $_srw_free_fire_11: 8179027899291793589
+      $_srw_free_fire_12: 4128501421482340091
+      $_srw_free_fire_13: -260640747165004780
+      $_srw_free_fire_14: 1957333946742412387
+      $_srw_free_fire_15: -602052579003197000
+      $_srw_free_fire_16: -138925433210787609
+      $_srw_free_fire_17: 3392951086001274581
+      $_srw_free_fire_18: -2872279466852027229
+      $_srw_free_fire_19: 8827182179037249569
+      $_srw_free_fire_2: -3729672188222149446
+      $_srw_free_fire_20: 4380508193990611347
+      $_srw_free_fire_21: 4483135472532625416
+      $_srw_free_fire_22: -2219854356512131636
+      $_srw_free_fire_3: 2556898320829460628
+      $_srw_free_fire_4: 2931156385228069200
+      $_srw_free_fire_5: 5114516551303170828
+      $_srw_free_fire_6: 3451394015681802214
+      $_srw_free_fire_7: -5664270381433648198
+      $_srw_free_fire_8: 5255947132889623538
+      $_srw_free_fire_9: -1127051111549794709
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

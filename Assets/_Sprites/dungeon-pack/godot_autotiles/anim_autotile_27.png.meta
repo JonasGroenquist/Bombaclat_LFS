@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      anim_autotile_27_0: -8988445236842029275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

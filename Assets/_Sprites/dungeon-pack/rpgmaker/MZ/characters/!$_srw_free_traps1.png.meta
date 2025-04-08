@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$_srw_free_traps1_0': 4866911437293140415
+      '!$_srw_free_traps1_1': -4914186421812898
+      '!$_srw_free_traps1_10': 6648062512164011677
+      '!$_srw_free_traps1_11': 1921765828817972882
+      '!$_srw_free_traps1_12': 7435988189798462937
+      '!$_srw_free_traps1_13': -3979075276801358103
+      '!$_srw_free_traps1_14': 7272223532643323180
+      '!$_srw_free_traps1_15': -4461019950376699201
+      '!$_srw_free_traps1_16': -7629279867393450410
+      '!$_srw_free_traps1_17': 5531607184754274065
+      '!$_srw_free_traps1_18': -7550766566373116652
+      '!$_srw_free_traps1_19': 4651739887525999939
+      '!$_srw_free_traps1_2': 2390475957924856542
+      '!$_srw_free_traps1_20': -5501300799093224415
+      '!$_srw_free_traps1_21': -8719619036106455122
+      '!$_srw_free_traps1_22': -4774324620287317058
+      '!$_srw_free_traps1_23': 5872050740815000267
+      '!$_srw_free_traps1_24': 1248638099270891642
+      '!$_srw_free_traps1_25': -8815151880186628345
+      '!$_srw_free_traps1_26': 6957105638152546909
+      '!$_srw_free_traps1_27': 2003433257603151342
+      '!$_srw_free_traps1_28': -1017161573660702870
+      '!$_srw_free_traps1_29': 6375820215408241004
+      '!$_srw_free_traps1_3': 3851638617023202589
+      '!$_srw_free_traps1_4': -3420843194200694013
+      '!$_srw_free_traps1_5': -2253350999153610940
+      '!$_srw_free_traps1_6': 3728818021737633844
+      '!$_srw_free_traps1_7': -5800399165050825912
+      '!$_srw_free_traps1_8': 2636916731893636856
+      '!$_srw_free_traps1_9': -8563324594009486301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
