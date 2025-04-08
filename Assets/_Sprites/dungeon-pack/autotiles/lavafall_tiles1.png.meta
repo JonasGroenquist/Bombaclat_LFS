@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lavafall_tiles1_0: 2552675019626349877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _srw_dungeon_A1_0: 5626858648649657664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

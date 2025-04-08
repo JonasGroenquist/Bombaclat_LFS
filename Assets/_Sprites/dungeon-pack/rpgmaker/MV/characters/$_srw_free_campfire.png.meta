@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_campfire_0: -5870173273428735207
+      $_srw_free_campfire_1: -7985014927871223791
+      $_srw_free_campfire_10: 9050590199555305562
+      $_srw_free_campfire_2: -3939000129202155836
+      $_srw_free_campfire_3: -1865924868588393293
+      $_srw_free_campfire_4: -6320651174864111768
+      $_srw_free_campfire_5: 5074737502417108742
+      $_srw_free_campfire_6: -1984470627080871617
+      $_srw_free_campfire_7: -6450136472656553434
+      $_srw_free_campfire_8: -1673915710022242938
+      $_srw_free_campfire_9: 6291370149363464966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

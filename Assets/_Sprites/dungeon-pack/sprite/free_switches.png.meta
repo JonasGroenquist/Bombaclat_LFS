@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      free_switches_0: -643529448185718741
+      free_switches_1: 3060747619713463456
+      free_switches_10: 627799253142121479
+      free_switches_11: 1847185932123104731
+      free_switches_12: -8012236441481355293
+      free_switches_13: 148563766987897884
+      free_switches_14: -3968025612825462720
+      free_switches_15: 7639470654982152022
+      free_switches_16: -1000529656609288112
+      free_switches_17: -4527241227118264841
+      free_switches_18: 6803066941561964174
+      free_switches_19: 7343558865265901849
+      free_switches_2: -1089329164775354746
+      free_switches_20: 4823244752133585760
+      free_switches_21: -4829781267455974374
+      free_switches_22: -5289163558283792985
+      free_switches_23: 803449874051952670
+      free_switches_24: -1615326018186050553
+      free_switches_25: -5443327734904461064
+      free_switches_3: -2815077885322338134
+      free_switches_4: 6956190937919214664
+      free_switches_5: 1252005066014289454
+      free_switches_6: 5977910939286572263
+      free_switches_7: -2257359902307102254
+      free_switches_8: -1862903116303849731
+      free_switches_9: 5250139048662602080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

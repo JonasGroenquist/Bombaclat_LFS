@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $_srw_free_campfire_0: -5870173273428735207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

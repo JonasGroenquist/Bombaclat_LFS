@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _srw_free_switches_0: -3693707048259131701
+      _srw_free_switches_1: 8892745403941389690
+      _srw_free_switches_10: -6088324031355212566
+      _srw_free_switches_11: -3176894820338793508
+      _srw_free_switches_12: 9071911064133037241
+      _srw_free_switches_13: 4197587199184601147
+      _srw_free_switches_14: -8878682155678088449
+      _srw_free_switches_15: 6484158360222766410
+      _srw_free_switches_16: -8374715540003116968
+      _srw_free_switches_17: 6330196367214553638
+      _srw_free_switches_18: -1558196112310045118
+      _srw_free_switches_19: -6758012964747238633
+      _srw_free_switches_2: -8752680298125669162
+      _srw_free_switches_20: -7591775630872845828
+      _srw_free_switches_21: -4646109679879866873
+      _srw_free_switches_22: 4687851883455175286
+      _srw_free_switches_23: -5047241527167552131
+      _srw_free_switches_24: 9159264803681514543
+      _srw_free_switches_25: 8585974632375518437
+      _srw_free_switches_3: -3319053945574789245
+      _srw_free_switches_4: -5171700841193891091
+      _srw_free_switches_5: -3624035992162205359
+      _srw_free_switches_6: 8278358814689331711
+      _srw_free_switches_7: -64557513726060650
+      _srw_free_switches_8: 2637373708721965893
+      _srw_free_switches_9: -2613560485066794956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
