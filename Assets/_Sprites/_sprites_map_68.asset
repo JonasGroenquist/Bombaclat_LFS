@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: free_lava_tiles1_0
+  m_Name: _sprites_map_68
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -7564048212660913539, guid: e49a6126f011dca4db5394766a75b9e7, type: 3}
+  m_Sprite: {fileID: -6109082671755924162, guid: ade256a416c4a0243b66e21711eca79e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
