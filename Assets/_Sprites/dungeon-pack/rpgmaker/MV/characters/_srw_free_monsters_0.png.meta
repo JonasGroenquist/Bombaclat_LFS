@@ -1,0 +1,2530 @@
+fileFormatVersion: 2
+guid: 27a54edf55e15d14e896a92072680399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4483367993183549349
+    second: _srw_free_monsters_0_0
+  - first:
+      213: -5117053600318909926
+    second: _srw_free_monsters_0_1
+  - first:
+      213: 2087076053139455968
+    second: _srw_free_monsters_0_2
+  - first:
+      213: 884471552758279092
+    second: _srw_free_monsters_0_3
+  - first:
+      213: -1497275412719191569
+    second: _srw_free_monsters_0_4
+  - first:
+      213: 5869648354255322576
+    second: _srw_free_monsters_0_5
+  - first:
+      213: -1989201865582744837
+    second: _srw_free_monsters_0_6
+  - first:
+      213: 479270243554229887
+    second: _srw_free_monsters_0_7
+  - first:
+      213: 1571472211147013292
+    second: _srw_free_monsters_0_8
+  - first:
+      213: 382413497206628637
+    second: _srw_free_monsters_0_9
+  - first:
+      213: -4650557716405820831
+    second: _srw_free_monsters_0_10
+  - first:
+      213: 8849346613853437859
+    second: _srw_free_monsters_0_11
+  - first:
+      213: -4882809398201040255
+    second: _srw_free_monsters_0_12
+  - first:
+      213: 5528639045208098010
+    second: _srw_free_monsters_0_13
+  - first:
+      213: 3264299159934312129
+    second: _srw_free_monsters_0_14
+  - first:
+      213: 6847192459891709783
+    second: _srw_free_monsters_0_15
+  - first:
+      213: -306790079334684546
+    second: _srw_free_monsters_0_16
+  - first:
+      213: 3606315760460332760
+    second: _srw_free_monsters_0_17
+  - first:
+      213: 6242716301813318242
+    second: _srw_free_monsters_0_18
+  - first:
+      213: -1363806980891282455
+    second: _srw_free_monsters_0_19
+  - first:
+      213: -5985610278189959120
+    second: _srw_free_monsters_0_20
+  - first:
+      213: 8059714724745442825
+    second: _srw_free_monsters_0_21
+  - first:
+      213: -4440946833439030604
+    second: _srw_free_monsters_0_22
+  - first:
+      213: 3280106004491078787
+    second: _srw_free_monsters_0_23
+  - first:
+      213: 5778032523401986122
+    second: _srw_free_monsters_0_24
+  - first:
+      213: -7913875913167752724
+    second: _srw_free_monsters_0_25
+  - first:
+      213: -209268133242923549
+    second: _srw_free_monsters_0_26
+  - first:
+      213: 1762797487436205653
+    second: _srw_free_monsters_0_27
+  - first:
+      213: -2808352976439835625
+    second: _srw_free_monsters_0_28
+  - first:
+      213: -2809130633267624703
+    second: _srw_free_monsters_0_29
+  - first:
+      213: -1715055786040548770
+    second: _srw_free_monsters_0_30
+  - first:
+      213: -3131721085255241029
+    second: _srw_free_monsters_0_31
+  - first:
+      213: -3769063088509906223
+    second: _srw_free_monsters_0_32
+  - first:
+      213: -4293244434079630314
+    second: _srw_free_monsters_0_33
+  - first:
+      213: -3668191671401638599
+    second: _srw_free_monsters_0_34
+  - first:
+      213: 3540725698105441117
+    second: _srw_free_monsters_0_35
+  - first:
+      213: 5785351272827607458
+    second: _srw_free_monsters_0_36
+  - first:
+      213: -976585739868445241
+    second: _srw_free_monsters_0_37
+  - first:
+      213: 3010489863734854745
+    second: _srw_free_monsters_0_38
+  - first:
+      213: -1104684331685916953
+    second: _srw_free_monsters_0_39
+  - first:
+      213: 7354151740914504073
+    second: _srw_free_monsters_0_40
+  - first:
+      213: 9054489177479409901
+    second: _srw_free_monsters_0_41
+  - first:
+      213: 8538889178305703031
+    second: _srw_free_monsters_0_42
+  - first:
+      213: 7870741830242322903
+    second: _srw_free_monsters_0_43
+  - first:
+      213: -8126374900729033292
+    second: _srw_free_monsters_0_44
+  - first:
+      213: 6018932868014600233
+    second: _srw_free_monsters_0_45
+  - first:
+      213: -855213734344242779
+    second: _srw_free_monsters_0_46
+  - first:
+      213: 8947582110684305501
+    second: _srw_free_monsters_0_47
+  - first:
+      213: 6332804890882750218
+    second: _srw_free_monsters_0_48
+  - first:
+      213: -7398384713441415339
+    second: _srw_free_monsters_0_49
+  - first:
+      213: -2610726667590310200
+    second: _srw_free_monsters_0_50
+  - first:
+      213: -6049380701325207619
+    second: _srw_free_monsters_0_51
+  - first:
+      213: -4582124767600494322
+    second: _srw_free_monsters_0_52
+  - first:
+      213: 3772294473174432212
+    second: _srw_free_monsters_0_53
+  - first:
+      213: -2238312301625007829
+    second: _srw_free_monsters_0_54
+  - first:
+      213: 8061111603092246077
+    second: _srw_free_monsters_0_55
+  - first:
+      213: 8417285314650490060
+    second: _srw_free_monsters_0_56
+  - first:
+      213: 842997010633321716
+    second: _srw_free_monsters_0_57
+  - first:
+      213: -4118627795861363287
+    second: _srw_free_monsters_0_58
+  - first:
+      213: 1168186301199216030
+    second: _srw_free_monsters_0_59
+  - first:
+      213: 6291002286456940020
+    second: _srw_free_monsters_0_60
+  - first:
+      213: 953212066774375785
+    second: _srw_free_monsters_0_61
+  - first:
+      213: -1514525340403496405
+    second: _srw_free_monsters_0_62
+  - first:
+      213: 7222238065439625114
+    second: _srw_free_monsters_0_63
+  - first:
+      213: 7264332788852738911
+    second: _srw_free_monsters_0_64
+  - first:
+      213: 6951690548061661310
+    second: _srw_free_monsters_0_65
+  - first:
+      213: -328268617649798867
+    second: _srw_free_monsters_0_66
+  - first:
+      213: 1752453562750494556
+    second: _srw_free_monsters_0_67
+  - first:
+      213: 4811665845074212447
+    second: _srw_free_monsters_0_68
+  - first:
+      213: -3603628027309931971
+    second: _srw_free_monsters_0_69
+  - first:
+      213: 7854605406323012490
+    second: _srw_free_monsters_0_70
+  - first:
+      213: 8744508546637669384
+    second: _srw_free_monsters_0_71
+  - first:
+      213: -5318671918442773037
+    second: _srw_free_monsters_0_72
+  - first:
+      213: 4917919635055868978
+    second: _srw_free_monsters_0_73
+  - first:
+      213: -1459705218310783630
+    second: _srw_free_monsters_0_74
+  - first:
+      213: -6977349506941629755
+    second: _srw_free_monsters_0_75
+  - first:
+      213: -7411524957843233799
+    second: _srw_free_monsters_0_76
+  - first:
+      213: -559853092011798688
+    second: _srw_free_monsters_0_77
+  - first:
+      213: -7974479455128120385
+    second: _srw_free_monsters_0_78
+  - first:
+      213: 643017475119995177
+    second: _srw_free_monsters_0_79
+  - first:
+      213: 550857185325685455
+    second: _srw_free_monsters_0_80
+  - first:
+      213: 5714808892189844905
+    second: _srw_free_monsters_0_81
+  - first:
+      213: -9133752263096104225
+    second: _srw_free_monsters_0_82
+  - first:
+      213: -1880322638920844552
+    second: _srw_free_monsters_0_83
+  - first:
+      213: -8264582317820952193
+    second: _srw_free_monsters_0_84
+  - first:
+      213: 5813891798922506862
+    second: _srw_free_monsters_0_85
+  - first:
+      213: 8870126971219919161
+    second: _srw_free_monsters_0_86
+  - first:
+      213: 139232401728591160
+    second: _srw_free_monsters_0_87
+  - first:
+      213: 7734447863749681709
+    second: _srw_free_monsters_0_88
+  - first:
+      213: 8955740529708688021
+    second: _srw_free_monsters_0_89
+  - first:
+      213: 7255259505145023738
+    second: _srw_free_monsters_0_90
+  - first:
+      213: 338948045339231244
+    second: _srw_free_monsters_0_91
+  - first:
+      213: 3791093152192427148
+    second: _srw_free_monsters_0_92
+  - first:
+      213: 2069213849467655036
+    second: _srw_free_monsters_0_93
+  - first:
+      213: 6282080893971130655
+    second: _srw_free_monsters_0_94
+  - first:
+      213: 6762680692321180973
+    second: _srw_free_monsters_0_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1007
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5840f86090e7c1c0800000000000000
+      internalID: -4483367993183549349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1007
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a129b50acd29cf8b0800000000000000
+      internalID: -5117053600318909926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1007
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eff99ecc98c6fc10800000000000000
+      internalID: 2087076053139455968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1007
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb681ce036464c00800000000000000
+      internalID: 884471552758279092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1007
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe932fde1fb983be0800000000000000
+      internalID: -1497275412719191569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1007
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd38d7541e257150800000000000000
+      internalID: 5869648354255322576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1007
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6567417fe464e0800000000000000
+      internalID: -1989201865582744837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1007
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ef67a4fb5b6a600800000000000000
+      internalID: 479270243554229887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_8
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1007
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb0d766adfec510800000000000000
+      internalID: 1571472211147013292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_9
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1007
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11e052bc0b9e4500800000000000000
+      internalID: 382413497206628637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_10
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1007
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ed2a8566e57fb0800000000000000
+      internalID: -4650557716405820831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_11
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1007
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af3a050cd13fca70800000000000000
+      internalID: 8849346613853437859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 863
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c94af8b6cc3cb0800000000000000
+      internalID: -4882809398201040255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 863
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4cbfc6beba9bc40800000000000000
+      internalID: 5528639045208098010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 863
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9d7c7ace1d4d20800000000000000
+      internalID: 3264299159934312129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 863
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571498a34d160f50800000000000000
+      internalID: 6847192459891709783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 863
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7864ac5c001ebbf0800000000000000
+      internalID: -306790079334684546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_17
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 863
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de712ab3153c0230800000000000000
+      internalID: 3606315760460332760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 863
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2628f13b66592a650800000000000000
+      internalID: 6242716301813318242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 863
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f6c1d6c8c21de0800000000000000
+      internalID: -1363806980891282455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_20
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 863
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387f844a27deeca0800000000000000
+      internalID: -5985610278189959120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_21
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 863
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ff6707dbd9df60800000000000000
+      internalID: 8059714724745442825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_22
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 863
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2887652669e52c0800000000000000
+      internalID: -4440946833439030604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_23
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 863
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c01574807458d20800000000000000
+      internalID: 3280106004491078787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 719
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40870a77f1bf2050800000000000000
+      internalID: 5778032523401986122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 719
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1bd1759c34c2290800000000000000
+      internalID: -7913875913167752724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 719
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e51f37ddb7881df0800000000000000
+      internalID: -209268133242923549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 719
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0691a9f6b67810800000000000000
+      internalID: 1762797487436205653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 719
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148463e8d9b609d0800000000000000
+      internalID: -2808352976439835625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 719
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1054a6c8296f309d0800000000000000
+      internalID: -2809130633267624703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_30
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 719
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52231f69d5e238e0800000000000000
+      internalID: -1715055786040548770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_31
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 719
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b2c9f344e984d0800000000000000
+      internalID: -3131721085255241029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_32
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 719
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29451271991bbc0800000000000000
+      internalID: -3769063088509906223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_33
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 719
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb2cc0fe45b64c0800000000000000
+      internalID: -4293244434079630314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_34
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 719
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9351f0a1c17f71dc0800000000000000
+      internalID: -3668191671401638599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_35
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 719
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bfbaa434f232130800000000000000
+      internalID: 3540725698105441117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a95ebd9452b94050800000000000000
+      internalID: 5785351272827607458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 575
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ed6a91787272f0800000000000000
+      internalID: -976585739868445241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 575
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95484dfa49867c920800000000000000
+      internalID: 3010489863734854745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 575
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eecbe4047f5ba0f0800000000000000
+      internalID: -1104684331685916953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 575
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981978d5b023f0660800000000000000
+      internalID: 7354151740914504073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_41
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 575
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de077462fe108ad70800000000000000
+      internalID: 9054489177479409901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_42
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 575
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca659777a308670800000000000000
+      internalID: 8538889178305703031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_43
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 575
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9c66e5efd7a3d60800000000000000
+      internalID: 7870741830242322903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_44
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 575
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd456a4511593f80800000000000000
+      internalID: -8126374900729033292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_45
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 575
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920fee4cd8b878350800000000000000
+      internalID: 6018932868014600233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_46
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 575
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94065c3aba124f0800000000000000
+      internalID: -855213734344242779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_47
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 575
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d585af9f5823c2c70800000000000000
+      internalID: 8947582110684305501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073ce0ee74a2e750800000000000000
+      internalID: 6332804890882750218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 431
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fe4ab2d48a35990800000000000000
+      internalID: -7398384713441415339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 431
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e3a49de5d4cbd0800000000000000
+      internalID: -2610726667590310200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_51
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7586a9d484c0ca0800000000000000
+      internalID: -6049380701325207619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_52
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 431
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0937ae0dc50960c0800000000000000
+      internalID: -4582124767600494322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_53
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 431
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d93bbd36d1e95430800000000000000
+      internalID: 3772294473174432212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 431
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21214d12daefe0e0800000000000000
+      internalID: -2238312301625007829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_55
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 431
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec71d1b42dedf60800000000000000
+      internalID: 8061111603092246077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_56
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 431
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4cad0a56430d470800000000000000
+      internalID: 8417285314650490060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_57
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 431
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fce385905de2bb00800000000000000
+      internalID: 842997010633321716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_58
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 431
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a522a157d1b7d6c0800000000000000
+      internalID: -4118627795861363287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_59
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 431
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de47a604b363010800000000000000
+      internalID: 1168186301199216030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5af659f312e4750800000000000000
+      internalID: 6291002286456940020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd3bb035d7a3d00800000000000000
+      internalID: 953212066774375785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 287
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0ce92a335bfae0800000000000000
+      internalID: -1514525340403496405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_63
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f45d5614b8a3460800000000000000
+      internalID: 7222238065439625114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_64
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 287
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b4ac1fe2810d460800000000000000
+      internalID: 7264332788852738911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_65
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 287
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e7a9c8bd597060800000000000000
+      internalID: 6951690548061661310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_66
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 287
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2143167e61c17bf0800000000000000
+      internalID: -328268617649798867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_67
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 287
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576c1dfa37f15810800000000000000
+      internalID: 1752453562750494556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_68
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 287
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f563781c79876c240800000000000000
+      internalID: 4811665845074212447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_69
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 287
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32cc89e6675dfdc0800000000000000
+      internalID: -3603628027309931971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_70
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 287
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83feb6600a210d60800000000000000
+      internalID: 7854605406323012490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_71
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 287
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804a4b9513cba5970800000000000000
+      internalID: 8744508546637669384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d58f58d1184036b0800000000000000
+      internalID: -5318671918442773037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 143
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7c611ad5ff3440800000000000000
+      internalID: 4917919635055868978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 143
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d3dc976d51ebbe0800000000000000
+      internalID: -1459705218310783630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 143
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca4ffc47997b2f90800000000000000
+      internalID: -6977349506941629755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 143
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3efcb9159f42990800000000000000
+      internalID: -7411524957843233799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_77
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 143
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f8b3c34900b38f0800000000000000
+      internalID: -559853092011798688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_78
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 143
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb31078af25f45190800000000000000
+      internalID: -7974479455128120385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_79
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 143
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92955ec9cf47ce800800000000000000
+      internalID: 643017475119995177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_80
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 143
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca1f4501b905a700800000000000000
+      internalID: 550857185325685455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_81
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 143
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5283ab8641f4f40800000000000000
+      internalID: 5714808892189844905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_82
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 143
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8cbb95b46e3180800000000000000
+      internalID: -9133752263096104225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_83
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 143
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa7ff3b580c7e5e0800000000000000
+      internalID: -1880322638920844552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ce496b2e4e4d80800000000000000
+      internalID: -8264582317820952193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_85
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62355da9c71fa050800000000000000
+      internalID: 5813891798922506862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931cc200c75091b70800000000000000
+      internalID: 8870126971219919161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_87
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d146b127aee100800000000000000
+      internalID: 139232401728591160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_88
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22249c6a57465b60800000000000000
+      internalID: 7734447863749681709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_89
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592eaddef8e294c70800000000000000
+      internalID: 8955740529708688021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_90
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0275741cdfa460800000000000000
+      internalID: 7255259505145023738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_91
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0402cf837f24b400800000000000000
+      internalID: 338948045339231244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_92
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8478d6c22bac9430800000000000000
+      internalID: 3791093152192427148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_93
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 0
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7396dd680357bc10800000000000000
+      internalID: 2069213849467655036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_94
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ea670a4f6e2750800000000000000
+      internalID: 6282080893971130655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _srw_free_monsters_0_95
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 0
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d523b624ed9dd50800000000000000
+      internalID: 6762680692321180973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

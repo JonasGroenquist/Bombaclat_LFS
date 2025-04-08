@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 7b618f34b4f28b047b8fe8306ce84bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4866911437293140415
+    second: '!$_srw_free_traps1_0'
+  - first:
+      213: -4914186421812898
+    second: '!$_srw_free_traps1_1'
+  - first:
+      213: 2390475957924856542
+    second: '!$_srw_free_traps1_2'
+  - first:
+      213: 3851638617023202589
+    second: '!$_srw_free_traps1_3'
+  - first:
+      213: -3420843194200694013
+    second: '!$_srw_free_traps1_4'
+  - first:
+      213: -2253350999153610940
+    second: '!$_srw_free_traps1_5'
+  - first:
+      213: 3728818021737633844
+    second: '!$_srw_free_traps1_6'
+  - first:
+      213: -5800399165050825912
+    second: '!$_srw_free_traps1_7'
+  - first:
+      213: 2636916731893636856
+    second: '!$_srw_free_traps1_8'
+  - first:
+      213: -8563324594009486301
+    second: '!$_srw_free_traps1_9'
+  - first:
+      213: 6648062512164011677
+    second: '!$_srw_free_traps1_10'
+  - first:
+      213: 1921765828817972882
+    second: '!$_srw_free_traps1_11'
+  - first:
+      213: 7435988189798462937
+    second: '!$_srw_free_traps1_12'
+  - first:
+      213: -3979075276801358103
+    second: '!$_srw_free_traps1_13'
+  - first:
+      213: 7272223532643323180
+    second: '!$_srw_free_traps1_14'
+  - first:
+      213: -4461019950376699201
+    second: '!$_srw_free_traps1_15'
+  - first:
+      213: -7629279867393450410
+    second: '!$_srw_free_traps1_16'
+  - first:
+      213: 5531607184754274065
+    second: '!$_srw_free_traps1_17'
+  - first:
+      213: -7550766566373116652
+    second: '!$_srw_free_traps1_18'
+  - first:
+      213: 4651739887525999939
+    second: '!$_srw_free_traps1_19'
+  - first:
+      213: -5501300799093224415
+    second: '!$_srw_free_traps1_20'
+  - first:
+      213: -8719619036106455122
+    second: '!$_srw_free_traps1_21'
+  - first:
+      213: -4774324620287317058
+    second: '!$_srw_free_traps1_22'
+  - first:
+      213: 5872050740815000267
+    second: '!$_srw_free_traps1_23'
+  - first:
+      213: 1248638099270891642
+    second: '!$_srw_free_traps1_24'
+  - first:
+      213: -8815151880186628345
+    second: '!$_srw_free_traps1_25'
+  - first:
+      213: 6957105638152546909
+    second: '!$_srw_free_traps1_26'
+  - first:
+      213: 2003433257603151342
+    second: '!$_srw_free_traps1_27'
+  - first:
+      213: -1017161573660702870
+    second: '!$_srw_free_traps1_28'
+  - first:
+      213: 6375820215408241004
+    second: '!$_srw_free_traps1_29'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_0'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b42d8a2eba8340800000000000000
+      internalID: 4866911437293140415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_1'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c7ffc29a8eeff0800000000000000
+      internalID: -4914186421812898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_2'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2093ce73dac2120800000000000000
+      internalID: 2390475957924856542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_3'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1548d25ae4c37530800000000000000
+      internalID: 3851638617023202589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_4'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 305
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ea514d39b680d0800000000000000
+      internalID: -3420843194200694013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_5'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6d2d743d7ab0e0800000000000000
+      internalID: -2253350999153610940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_6'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381fb11c3c6fb330800000000000000
+      internalID: 3728818021737633844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_7'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 305
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435ca3f0b7d08fa0800000000000000
+      internalID: -5800399165050825912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_8'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feddc2fbc5389420800000000000000
+      internalID: 2636916731893636856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_9'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cc2b5f6a5f82980800000000000000
+      internalID: -8563324594009486301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_10'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7022c1a9a24c50800000000000000
+      internalID: 6648062512164011677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_11'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eed20e6db7baa10800000000000000
+      internalID: 1921765828817972882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_12'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ffee6cdfe13760800000000000000
+      internalID: 7435988189798462937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_13'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e647b72e1c77c8c0800000000000000
+      internalID: -3979075276801358103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_14'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0176e5c02ce460800000000000000
+      internalID: 7272223532643323180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_15'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbabdd99df54712c0800000000000000
+      internalID: -4461019950376699201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_16'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e59fbd16a5f1690800000000000000
+      internalID: -7629279867393450410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_17'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe6444d6734cc40800000000000000
+      internalID: 5531607184754274065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_18'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153f6540d9463790800000000000000
+      internalID: -7550766566373116652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_19'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b08f18cc4e8040800000000000000
+      internalID: 4651739887525999939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_20'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 17
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc973021477a3b0800000000000000
+      internalID: -5501300799093224415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_21'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea704286fa0bdf680800000000000000
+      internalID: -8719619036106455122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_22'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6f55ad013ebdb0800000000000000
+      internalID: -4774324620287317058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_23'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f85d8907bd7150800000000000000
+      internalID: 5872050740815000267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_24'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787f085cbd045110800000000000000
+      internalID: 1248638099270891642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_25'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707fb54d11a4aa580800000000000000
+      internalID: -8815151880186628345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_26'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a23f2b7ba9c8060800000000000000
+      internalID: 6957105638152546909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_27'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b3a2eeef9dcb10800000000000000
+      internalID: 2003433257603151342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_28'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c6ca10f052e1f0800000000000000
+      internalID: -1017161573660702870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_srw_free_traps1_29'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a92394b67b7850800000000000000
+      internalID: 6375820215408241004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
