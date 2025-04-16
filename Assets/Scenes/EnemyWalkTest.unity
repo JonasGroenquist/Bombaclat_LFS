@@ -128,8 +128,24 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
+      propertyPath: m_Size.x
+      value: 4.3388796
+      objectReference: {fileID: 0}
+    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
+      propertyPath: m_Size.y
+      value: 10.211242
+      objectReference: {fileID: 0}
+    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.3873917
+      objectReference: {fileID: 0}
+    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.28899336
       objectReference: {fileID: 0}
     - target: {fileID: 5918195496366210476, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_TagString
