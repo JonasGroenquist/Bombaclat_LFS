@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2322491281043175426}
   - component: {fileID: -1331151907207449091}
   - component: {fileID: 5244567480470311839}
-  - component: {fileID: 8543611524353279739}
-  m_Layer: 0
+  - component: {fileID: 2870956989907814638}
+  m_Layer: 7
   m_Name: Brick
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -163,25 +163,27 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!95 &8543611524353279739
-Animator:
-  serializedVersion: 7
+--- !u!114 &2870956989907814638
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4845044105492596553}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 25187f4f472668f439a85e670d1d6f86, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b657de63d6d55b14ab3d7029b9c413e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idleSprite: {fileID: 21300000, guid: 4707ec6bcb84fed428e044aa80a5e3e1, type: 3}
+  animationSprites:
+  - {fileID: 440004201269631737, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: 6428096427953393541, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: 8603011222089355523, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: 2274631966701665123, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: -5598041726246172800, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: -5070355926835817348, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  - {fileID: -5028786312047504514, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
+  animationTime: 0.15
+  loop: 0
+  idle: 1

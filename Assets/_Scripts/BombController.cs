@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class BombController : MonoBehaviour
 {
@@ -12,8 +13,12 @@ public class BombController : MonoBehaviour
 
     // Eksplosionen er en prefab, der skal placeres i editoren
     public Explosion explosionPrefab;
+    public LayerMask explosionLayerMask;
     public float explosionDuration = 1f;
     public int explosionRadius = 1;
+
+    //public Tilemap wallTilemap;
+    //public BlowUp BlowUp;
 
     private void OnEnable()
     {
@@ -64,11 +69,61 @@ public class BombController : MonoBehaviour
 
     private void Explode(Vector2 position, Vector2 direction, int length)
     {
-        // hvis længden er 0, gør ikke noget
+        // If length is 0, do nothing
         if (length <= 0) { return; }
 
-        position += direction; // flytter positionen i den givne retning
+        // Move position in the given direction
+        position += direction;
 
+        // FIRST CHECK: Look for the tilemap wall
+        Tilemap wallTilemap = GameObject.Find("WallForeground").GetComponent<Tilemap>();
+        Vector3Int cellPosition = wallTilemap.WorldToCell(position);
+
+        // Check if there's a tile at this position
+        if (wallTilemap.HasTile(cellPosition))
+        {
+            Debug.Log("Wall tile detected at cell: " + cellPosition);
+            return; // Stop explosion
+        }
+
+        // SECOND CHECK: Look for regular wall GameObjects
+        Collider2D[] colliders = Physics2D.OverlapPointAll(position);
+        foreach (Collider2D collider in colliders)
+        {
+            if (collider.gameObject.layer == LayerMask.NameToLayer("Wall"))
+            {
+                Debug.Log("Wall GameObject detected: " + collider.gameObject.name);
+
+                // Get the AnimatedSpriteRenderer component
+                AnimatedSpriteRenderer wallRenderer = collider.GetComponent<AnimatedSpriteRenderer>();
+                if (wallRenderer != null)
+                {
+                    // Add this method to AnimatedSpriteRenderer
+                    if (wallRenderer.GetType().GetMethod("PlayDestructionAnimation") != null)
+                    {
+                        wallRenderer.PlayDestructionAnimation();
+                    }
+                    else
+                    {
+                        // Fallback to just setting idle = false
+                        wallRenderer.idle = false;
+                    }
+
+                    // Destroy after full animation cycle
+                    Destroy(collider.gameObject, wallRenderer.animationSprites.Length * wallRenderer.animationTime);
+                }
+                else
+                {
+                    // No AnimatedSpriteRenderer, just destroy immediately
+                    Destroy(collider.gameObject);
+                }
+
+                return; // Stop explosion
+            }
+        }
+
+
+        // No wall detected, continue with explosion
         Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
         if (length > 1)
         { explosion.SetActiveRenderer(explosion.middle); }
@@ -77,6 +132,7 @@ public class BombController : MonoBehaviour
         explosion.SetDirection(direction);
         explosion.DestroyAfter(explosionDuration);
 
+        // Continue explosion in this direction
         Explode(position, direction, length - 1);
     }
 
@@ -90,6 +146,17 @@ public class BombController : MonoBehaviour
         }
     }
 
+    //private void ClearBrick(Vector2 position)
+    //{
+    //    Vector3Int cellPosition = wallTilemap.WorldToCell(position);
+    //    TileBase tile = wallTilemap.GetTile(cellPosition);
+
+    //    if (tile != null)
+    //    {
+    //        Instantiate(BlowUp, position, Quaternion.identity);
+    //        wallTilemap.SetTile(cellPosition, null); // Fjern tile
+    //    }
+    //}
 
 
 }
