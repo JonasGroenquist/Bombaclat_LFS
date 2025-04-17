@@ -17,7 +17,9 @@ public class Explosion : MonoBehaviour
     {
         // Regner viklen ud fra retningen og sætter rotationen
         float angle = Mathf.Atan2(direction.y, direction.x);
-        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+        // Mathf.Rad2Deg bruges til at konvertere vinklen fra radianer (som Mathf.Atan2 returnerer) til grader,
+        // da Unity's rotationer (Quaternion.AngleAxis) arbejder med grader i stedet for radianer.
+        transform.rotation = Quaternion.AngleAxis(angle * Mathf.Rad2Deg, Vector3.forward);
     }
 
     public void DestroyAfter(float seconds)
