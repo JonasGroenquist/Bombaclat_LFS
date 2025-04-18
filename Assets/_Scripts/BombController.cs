@@ -98,15 +98,17 @@ public class BombController : MonoBehaviour
                 AnimatedSpriteRenderer wallRenderer = collider.GetComponent<AnimatedSpriteRenderer>();
                 if (wallRenderer != null)
                 {
-                    // Add this method to AnimatedSpriteRenderer
+                    // Try to drop a powerup before destruction
+                    DestroyWall destroyWall = collider.GetComponent<DestroyWall>();
+                    if (destroyWall != null)
+                    {
+                        // destroyWall.TryDropPowerup();
+                    }
+
+                    // Continue with animation
                     if (wallRenderer.GetType().GetMethod("PlayDestructionAnimation") != null)
                     {
                         wallRenderer.PlayDestructionAnimation();
-                    }
-                    else
-                    {
-                        // Fallback to just setting idle = false
-                        // wallRenderer.idle = false;
                     }
 
                     // Destroy after full animation cycle

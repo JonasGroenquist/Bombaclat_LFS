@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: -1331151907207449091}
   - component: {fileID: 5244567480470311839}
   - component: {fileID: 2870956989907814638}
+  - component: {fileID: 2582183394500607310}
   m_Layer: 7
   m_Name: Brick
   m_TagString: Wall
@@ -187,3 +188,21 @@ MonoBehaviour:
   animationTime: 0.15
   loop: 0
   idle: 1
+--- !u!114 &2582183394500607310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4845044105492596553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e8f6293d1ab5b2428fe54c9aaa754d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerupPrefabs:
+  - {fileID: 1996521432990063732, guid: a7c41bc5aa49f2a4e8b9f796d41be3c6, type: 3}
+  - {fileID: 6049042216474252726, guid: 4420111d698660c42b4e24a98bbc941c, type: 3}
+  - {fileID: 8998621365887406057, guid: f3fce2ff778d1084ea1357f80a9f606c, type: 3}
+  - {fileID: 2055986859760649794, guid: f54fbb0a5e56da34eb3ddde4bf95ca14, type: 3}
+  dropChance: 0.8

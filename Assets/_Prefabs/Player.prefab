@@ -11,14 +11,13 @@ GameObject:
   - component: {fileID: 4298134416277731819}
   - component: {fileID: 140515115356087497}
   - component: {fileID: 5413699907577948620}
-  - component: {fileID: 2268338455597057988}
   - component: {fileID: 7332821587961859807}
   - component: {fileID: 6266064373304992740}
   - component: {fileID: 8259015413707135267}
   - component: {fileID: 9138746170464731590}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120,19 +119,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2268338455597057988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5822820997225341963}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd82bbb8b97e3b04196fb06266d1e811, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 1
 --- !u!95 &7332821587961859807
 Animator:
   serializedVersion: 7
@@ -172,6 +158,9 @@ MonoBehaviour:
   bombFuseTime: 3
   bombAmount: 1
   explosionPrefab: {fileID: 8508943217604236428, guid: 31fbfe23f4abef441a1dd5e8fe2664b4, type: 3}
+  explosionLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
   explosionDuration: 1
   explosionRadius: 1
 --- !u!61 &8259015413707135267
