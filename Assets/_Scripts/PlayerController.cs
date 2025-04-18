@@ -2,18 +2,20 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-	[SerializeField] private float moveSpeed = 1f;
+	[SerializeField] private float moveSpeed = 2f;
 
 	private PlayerControls playerControls;
 	private Vector2 movement;
 	private Rigidbody2D rb;
 	private Animator myAnimator;
+	private SpriteRenderer spriteRenderer;
 
 	private void Awake()
 	{
 		playerControls = new PlayerControls();
 		rb = GetComponent<Rigidbody2D>();
 		myAnimator = GetComponent<Animator>();
+		spriteRenderer = GetComponent<SpriteRenderer>();
 	}
 
 	private void OnEnable()
@@ -38,6 +40,16 @@ public class PlayerController : MonoBehaviour
 
 		myAnimator.SetFloat("movex", movement.x);
 		myAnimator.SetFloat("movey", movement.y);
+
+		// Flip sprite based on horizontal input
+		if (movement.x > 0.01f)
+		{
+			spriteRenderer.flipX = false;
+		}
+		else if (movement.x < -0.01f)
+		{
+			spriteRenderer.flipX = true;
+		}
 	}
 
 	private void Move()
