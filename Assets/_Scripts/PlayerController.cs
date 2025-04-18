@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-	[SerializeField] private float moveSpeed = 2f;
+    private float moveSpeed = 1.5f;
 
 	private PlayerControls playerControls;
 	private Vector2 movement;
@@ -55,5 +55,10 @@ public class PlayerController : MonoBehaviour
 	private void Move()
 	{
 		rb.MovePosition(rb.position + movement * (moveSpeed * Time.fixedDeltaTime));
+	}
+
+	public void IncreaseSpeed(float amount)
+	{
+		moveSpeed += amount;
 	}
 }
