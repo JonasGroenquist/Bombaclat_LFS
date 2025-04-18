@@ -7323,7 +7323,7 @@ GameObject:
   - component: {fileID: 1425998385}
   m_Layer: 7
   m_Name: WallForeground
-  m_TagString: Untagged
+  m_TagString: Indestructible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
