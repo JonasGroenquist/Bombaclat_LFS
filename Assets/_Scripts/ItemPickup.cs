@@ -7,7 +7,6 @@ public class ItemPickup : MonoBehaviour
         ExtraBomb,
         FlameRadius,
         SpeedIncrease,
-        KickBomb,
     }
 
     public ItemType type;
@@ -24,9 +23,6 @@ public class ItemPickup : MonoBehaviour
                 break;
             case ItemType.SpeedIncrease:
                 player.GetComponent<PlayerController>().moveSpeed++;
-                break;
-            case ItemType.KickBomb:
-                // Add kick bomb logic here
                 break;
         }
 
