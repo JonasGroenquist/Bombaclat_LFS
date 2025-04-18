@@ -106,7 +106,7 @@ public class BombController : MonoBehaviour
                     else
                     {
                         // Fallback to just setting idle = false
-                        wallRenderer.idle = false;
+                        // wallRenderer.idle = false;
                     }
 
                     // Destroy after full animation cycle
@@ -115,7 +115,7 @@ public class BombController : MonoBehaviour
                 else
                 {
                     // No AnimatedSpriteRenderer, just destroy immediately
-                    Destroy(collider.gameObject);
+                    // Destroy(collider.gameObject);
                 }
 
                 return; // Stop explosion
