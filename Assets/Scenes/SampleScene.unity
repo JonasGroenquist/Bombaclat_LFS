@@ -5375,49 +5375,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_Size.x
-      value: 4.5712967
-      objectReference: {fileID: 0}
-    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_Size.y
-      value: 11.75256
-      objectReference: {fileID: 0}
-    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_Offset.x
-      value: -0.27117348
-      objectReference: {fileID: 0}
-    - target: {fileID: 5302351118705047516, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_Offset.y
-      value: 0.19266152
-      objectReference: {fileID: 0}
-    - target: {fileID: 5918195496366210476, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.10074369
-      objectReference: {fileID: 0}
-    - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.08102661
-      objectReference: {fileID: 0}
-    - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.053
-      objectReference: {fileID: 0}
     - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.91
+      value: 9.93
       objectReference: {fileID: 0}
     - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13.19
+      value: -2.75
       objectReference: {fileID: 0}
     - target: {fileID: 6021001964869459029, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5451,44 +5415,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6837549889028065688, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 168.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6837549889028065688, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -195.3
-      objectReference: {fileID: 0}
     - target: {fileID: 7773140838889805183, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
-    - target: {fileID: 7773140838889805183, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    - target: {fileID: 8269366949820851844, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_SortingLayer
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8269366949820851844, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8269366949820851844, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      propertyPath: m_SortingLayerID
-      value: -644302861
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7773140838889805183, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2007575397}
-    - targetCorrespondingSourceObject: {fileID: 7773140838889805183, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2007575396}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
 --- !u!1 &851127386
 GameObject:
@@ -10207,82 +10141,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7773140838889805183, guid: fc2e54a59d0cd8e40aa065ada4350783, type: 3}
   m_PrefabInstance: {fileID: 841710260}
   m_PrefabAsset: {fileID: 0}
---- !u!19719996 &2007575396
-TilemapCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2007575395}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
---- !u!1839735485 &2007575397
-Tilemap:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2007575395}
-  m_Enabled: 1
-  m_Tiles: {}
-  m_AnimatedTiles: {}
-  m_TileAssetArray: []
-  m_TileSpriteArray: []
-  m_TileMatrixArray: []
-  m_TileColorArray: []
-  m_TileObjectToInstantiateArray: []
-  m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: 0, y: 0, z: 0}
-  m_Size: {x: 0, y: 0, z: 1}
-  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
-  m_TileOrientation: 0
-  m_TileOrientationMatrix:
-    e00: 1
-    e01: 0
-    e02: 0
-    e03: 0
-    e10: 0
-    e11: 1
-    e12: 0
-    e13: 0
-    e20: 0
-    e21: 0
-    e22: 1
-    e23: 0
-    e30: 0
-    e31: 0
-    e32: 0
-    e33: 1
 --- !u!1 &2028662385
 GameObject:
   m_ObjectHideFlags: 0
