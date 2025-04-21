@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
 	private Rigidbody2D rb;
 	private Animator myAnimator;
 	private SpriteRenderer spriteRenderer;
+	public AnimatedSpriteRenderer spriteRendererDeath;
 
 	private void Awake()
 	{
@@ -57,8 +58,25 @@ public class PlayerController : MonoBehaviour
 		rb.MovePosition(rb.position + movement * (moveSpeed * Time.fixedDeltaTime));
 	}
 
-	public void IncreaseSpeed(float amount)
+	private void OnTriggerEnter2D(Collider2D other)
 	{
-		moveSpeed += amount;
+		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion")) 
+		{
+			DeathSequence();
+		}
+	}
+	private void DeathSequence() 
+	{
+		enabled = false;
+		GetComponent<BombController>().enabled = false;
+		spriteRenderer.enabled = false;
+		spriteRendererDeath.enabled = true;
+
+		Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+	}
+
+	private void OnDeathSequenceEnded() 
+	{
+		gameObject.SetActive(false);
 	}
 }
