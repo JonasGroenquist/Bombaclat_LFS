@@ -1,10 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement; // Bruger SceneManager til at genstarte scenen
 
-public class GameMAnager : MonoBehaviour 
+public class GameManager : MonoBehaviour
 {
     public GameObject[] players;
-    
+
     public void CheckWinState()
     {
         int aliveCount = 0;

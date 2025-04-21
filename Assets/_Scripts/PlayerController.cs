@@ -78,5 +78,6 @@ public class PlayerController : MonoBehaviour
 	private void OnDeathSequenceEnded() 
 	{
 		gameObject.SetActive(false);
-	}
+		FindAnyObjectByType<GameManager>().CheckWinState();
+    }
 }
