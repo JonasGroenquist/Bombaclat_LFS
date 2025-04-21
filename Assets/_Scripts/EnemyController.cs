@@ -9,6 +9,9 @@ public class EnemyController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public AnimatedSpriteRenderer spriteRendererDeath;
 
+    private float changeDirectionTime = 0f;
+    private float directionChangeInterval = 1f; // seconds
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -16,10 +19,18 @@ public class EnemyController : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    private void Update()
+    void Update()
     {
-        DecideMovement(); // her vælger fjenden, hvor den skal gå hen
         Animate();
+        changeDirectionTime -= Time.deltaTime;
+
+        if (changeDirectionTime <= 0f)
+        {
+            DecideMovement();
+            changeDirectionTime = directionChangeInterval;
+        }
+
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.deltaTime);
     }
 
     private void FixedUpdate()
@@ -32,6 +43,23 @@ public class EnemyController : MonoBehaviour
         // Placeholder AI: gå tilfældigt rundt
         movement = new Vector2(Random.Range(-1, 2), Random.Range(-1, 2)).normalized;
     }
+    // Called when hitting a wall or obstacle
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Optional: check if it's a wall by tag/layer
+        if (collision.gameObject.CompareTag("Wall"))
+        {
+            // Try a new direction immediately
+            DecideMovement();
+            changeDirectionTime = directionChangeInterval; // reset timer
+        }
+        if (collision.gameObject.CompareTag("Indestructible"))
+        {
+            // Try a new direction immediately
+            DecideMovement();
+            changeDirectionTime = directionChangeInterval; // reset timer
+        }
+    }
 
     private void Move()
     {
@@ -42,6 +70,7 @@ public class EnemyController : MonoBehaviour
     {
         myAnimator.SetFloat("movex", movement.x);
         myAnimator.SetFloat("movey", movement.y);
+        // myAnimator.SetBool("walk", true);
 
         if (movement.x > 0.01f)
         {
