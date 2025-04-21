@@ -10,19 +10,25 @@ public class Explosion : MonoBehaviour
     private AudioSource audioSource;
 
 
-    private void Start()
+    private void Awake() // Changed from Start to Awake for earlier initialization
     {
-        // Initialize the AudioSource but don't play the sound yet
-        audioSource = gameObject.AddComponent<AudioSource>();
+        // Initialize the AudioSource
+        audioSource = gameObject.GetComponent<AudioSource>();
+        if (audioSource == null) // Only add if it doesn't exist
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
         audioSource.playOnAwake = false;
-        audioSource.spatialBlend = 0f; // Set to 1f for 3D sound
+        audioSource.spatialBlend = 0f; // 2D sound
     }
 
     public void PlayExplosionSound()
     {
         if (explosionSound != null && audioSource != null)
         {
-            audioSource.PlayOneShot(explosionSound);
+            // Use an even lower volume for PlayOneShot
+            float volume = 0.1f; // Force it to be very quiet
+            audioSource.PlayOneShot(explosionSound, volume);
         }
     }
 
