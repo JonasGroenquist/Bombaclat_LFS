@@ -6,6 +6,26 @@ public class Explosion : MonoBehaviour
     public AnimatedSpriteRenderer middle;
     public AnimatedSpriteRenderer end;
 
+    public AudioClip explosionSound;
+    private AudioSource audioSource;
+
+
+    private void Start()
+    {
+        // Initialize the AudioSource but don't play the sound yet
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.playOnAwake = false;
+        audioSource.spatialBlend = 0f; // Set to 1f for 3D sound
+    }
+
+    public void PlayExplosionSound()
+    {
+        if (explosionSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(explosionSound);
+        }
+    }
+
     public void SetActiveRenderer(AnimatedSpriteRenderer renderer)
     {
         start.enabled = renderer == start;
@@ -23,7 +43,7 @@ public class Explosion : MonoBehaviour
     }
 
     public void DestroyAfter(float seconds)
-    {
+    { 
         Destroy(gameObject, seconds);
     }
 }

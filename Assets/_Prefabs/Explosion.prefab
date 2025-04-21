@@ -210,6 +210,7 @@ MonoBehaviour:
   start: {fileID: 2820516437917828511}
   middle: {fileID: 407318185981643992}
   end: {fileID: 4691054756403700117}
+  explosionSound: {fileID: 8300000, guid: 6b33007a610df0845bd41bb3b1d6f0fd, type: 3}
 --- !u!1 &3475640572094426420
 GameObject:
   m_ObjectHideFlags: 0

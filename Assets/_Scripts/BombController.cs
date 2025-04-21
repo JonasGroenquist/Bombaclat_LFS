@@ -3,6 +3,7 @@ using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+
 public class BombController : MonoBehaviour
 {
     public KeyCode inputKey = KeyCode.Space;
@@ -54,6 +55,7 @@ public class BombController : MonoBehaviour
 
         Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
         explosion.SetActiveRenderer(explosion.start); // sætter den aktive renderer til start spritet
+        explosion.PlayExplosionSound(); // spiller eksplosionslyden
         explosion.DestroyAfter(explosionDuration); // sletter eksplosionsobjektet efter explosionDuration sekunder
 
         Explode(position, Vector2.up, explosionRadius);
@@ -132,6 +134,7 @@ public class BombController : MonoBehaviour
         else
         { explosion.SetActiveRenderer(explosion.end); }
         explosion.SetDirection(direction);
+        explosion.PlayExplosionSound(); // spiller eksplosionslyden
         explosion.DestroyAfter(explosionDuration);
 
         // Continue explosion in this direction
