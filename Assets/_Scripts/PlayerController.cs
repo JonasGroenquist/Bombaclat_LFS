@@ -58,24 +58,27 @@ public class PlayerController : MonoBehaviour
 		rb.MovePosition(rb.position + movement * (moveSpeed * Time.fixedDeltaTime));
 	}
 
-	private void OnTriggerEnter2D(Collider2D other)
-	{
-		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion")) 
-		{
-			DeathSequence();
-		}
-	}
-	private void DeathSequence() 
-	{
-		enabled = false;
-		GetComponent<BombController>().enabled = false;
-		spriteRenderer.enabled = false;
-		spriteRendererDeath.enabled = true;
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Explosion"))
+        {
+            DeathSequence();
+        }
+    }
+    private void DeathSequence()
+    {
+        enabled = false;
+        GetComponent<BombController>().enabled = false;
+        spriteRenderer.enabled = false;
+        spriteRendererDeath.enabled = true;
 
-		Invoke(nameof(OnDeathSequenceEnded), 1.25f);
-	}
+        // Force the sprite to animate instead of showing idle
+        spriteRendererDeath.idle = false;
 
-	private void OnDeathSequenceEnded() 
+        Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+    }
+
+    private void OnDeathSequenceEnded() 
 	{
 		gameObject.SetActive(false);
 		FindAnyObjectByType<GameManager>().CheckWinState();
