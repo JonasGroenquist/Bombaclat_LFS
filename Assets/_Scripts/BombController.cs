@@ -40,7 +40,7 @@ public class BombController : MonoBehaviour
         // co-routine: execute logik, pause funktionen, vent, og execute mere logik (Using System.Collections)
         Vector2 position = transform.position;
         position.x = Mathf.Round(position.x); // Runder positionen til nærmeste heltal
-        position.y = Mathf.Round(position.y); // Runder positionen til nærmeste heltal
+        position.y = Mathf.Round(position.y-0.1f); // Runder positionen til nærmeste heltal, -0.1f så den ikke spawner på tile over
 
         GameObject bomb = Instantiate(bombPrefab, position, Quaternion.identity); // Quarternion.identity = ingen rotation
         bombsRemaining--;
